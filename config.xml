@@ -35,7 +35,7 @@ Lesly Milan Wreste
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
-<plugin name="cordova-pugin-whitelist" source="npm"/>
+<plugin name="cordova-plugin-whitelist" source="npm"/>
 <!--COLOCAR EL ICONO DE LA APP-->
 <icon src="res/android/mdpi.png"/>
 
