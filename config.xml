@@ -11,7 +11,8 @@ version = "1.0.0">
 Apicacion que realiza es swipe o deslizamiento en el dispositivo
 </description>
 
-<author href="https://build.phonrgap.com" email="less_wreste15@hotmail.com">
+<author href="https://build.phongap.com" email="less_wreste15@hotmail.com">
+Lesly Milan Wreste
 </author>
 
 
@@ -34,6 +35,7 @@ Apicacion que realiza es swipe o deslizamiento en el dispositivo
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
+<plugin name="cordova-pugin-whitelist" source="npm"/>
 <!--COLOCAR EL ICONO DE LA APP-->
 <icon src="res/android/mdpi.png"/>
 
