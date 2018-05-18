@@ -4,10 +4,10 @@
  id = "com.phonegap.app1"
  version= "1.0.0">
 
-<name> app6-2018 Batalla de Puebla </name>
+<name> app7 Deslizar hacia la izquierda y derecha </name>
 
 <description>
-Aplicacion que muestra iformacion sobre 4 y 5 de Mayo
+Aplicacion que realaliza swipe
 </description>
 
 <author href="https://build.phonegap.com" email="less_wreste15@hotmail.com">
